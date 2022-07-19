@@ -122,3 +122,35 @@ body{
     color: hsl(218, 30%, 89%);
     line-height: 1.5rem;
 }
+
+@media screen and (min-width: 600px){
+
+    .main{
+        height: 100vh;
+    }
+
+    .card{
+        width: 650px;
+        display: flex;
+        flex-wrap: wrap;
+        align-content: flex-start;
+    }
+
+    .card__sumary{
+        width: 100%;
+        padding: 2rem 3rem;
+    }
+    
+    .card__sumary--paragraph{
+        font-size: 1rem;
+    }
+
+    .card__price{
+        width: 50%;
+    }
+
+    .card__contact{
+        width: 50%;
+    }
+    
+}
