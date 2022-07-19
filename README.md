@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/AlejandroLR00/Product-preview-card-component)
-- Live Site URL: [Live site](https://idyllic-melomakarona-6b4f3d.netlify.app/)
+- Solution URL: [Github](https://github.com/AlejandroLR00/Single-price-grid-component)
+- Live Site URL: [Live site](https://fancy-dolphin-5caec1.netlify.app/)
 
 ## My process
 
