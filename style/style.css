@@ -17,6 +17,7 @@
 body{
     font-family: 'Karla', sans-serif;
     font-size: 16px;
+    position: relative;
 }
 
 .main{
@@ -122,6 +123,21 @@ body{
     color: hsl(218, 30%, 89%);
     line-height: 1.5rem;
 }
+
+footer{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+
+}
+.attribution{
+    font-size: 11px; text-align: center;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
 
 @media screen and (min-width: 600px){
 
